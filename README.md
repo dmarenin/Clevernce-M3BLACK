@@ -1,5 +1,6 @@
 # Clevernce-M3BLACK
-add support device M3BLACK to cleverence
+add support device M3BLACK to cleverence (rev eng win ce app)
+
 
 1. установить с пк mobile smarts поставку для модели M3T6700
 
