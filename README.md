@@ -1,6 +1,7 @@
 # Clevernce-M3BLACK
 add support device M3BLACK to cleverence (rev eng win ce app)
 
+Решение проблемы поддержки cleverence сканера M3BLACK в cleverence, те клиент cleverence(win ce) при нажатии на клавишу начать сканирование не открывал порт тсд для работы сканера(софт запускается сканер не стартует).
 
 1. установить с пк mobile smarts поставку для модели M3T6700
 
@@ -23,3 +24,5 @@ ScannerNet.dll
 Scanner.dll
 
 MCSSLib6500.dll
+
+исходники в src
