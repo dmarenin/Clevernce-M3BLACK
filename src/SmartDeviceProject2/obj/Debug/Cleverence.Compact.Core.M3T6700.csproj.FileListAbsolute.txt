@@ -1,0 +1,12 @@
+C:\Users\mdl\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mdl\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\Cleverence.Barcoding.dll
+C:\Users\mdl\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\Cleverence.Compact.Common.dll
+C:\Users\mdl\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\Cleverence.Compact.Core.dll
+C:\Users\mdl\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\Cleverence.CompactForms.dll
+C:\Users\mdl\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\mdl\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\Cleverence.Compact.Core.M3T6700.dll
+C:\Users\mdl\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\Cleverence.Compact.Core.M3T6700.pdb
+C:\Users\mdl\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\Cleverence.Compact.Core.M3T6700.dll
+C:\Users\mdl\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\Cleverence.Compact.Core.M3T6700.pdb
+C:\Users\mdl\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\ImagerNet.dll
+C:\Users\mdl\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\M3SystemNet.dll
